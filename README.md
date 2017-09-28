@@ -6,4 +6,4 @@ GraphQL client using Elm
 
   `~ npm install -g elm-live`
   
-  `elm-live Main.elm --output=elm.js --open`
+  `~ elm-live Main.elm --output=elm.js --open`
